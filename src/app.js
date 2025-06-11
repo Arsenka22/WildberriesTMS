@@ -6,6 +6,7 @@ search.addEventListener('focus', () => {
 });
 search.addEventListener('blur', () => {
   search.classList.add('text-center');
+  search.value = '';
 });
 search.addEventListener('input', () => {
   setTimeout(() => {
