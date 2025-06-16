@@ -11,6 +11,7 @@ search.addEventListener('blur', () => {
   search.value = '';
 });
 
+//для примера
 const items = [{ name: 'cofe' }, { name: 'switshots' }, { name: 'pants' }, { name: 'Watch' }, { name: 'screwDriver' }];
 
 searchGoods(items);
