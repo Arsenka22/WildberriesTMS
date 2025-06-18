@@ -1,4 +1,6 @@
 import { searchGoods } from './search.js';
+//для примера
+const items = [{ name: 'cofe' }, { name: 'switshots' }, { name: 'pants' }, { name: 'Watch' }, { name: 'screwDriver' }];
 
 export const search = document.getElementById('search');
 // let searchValue;
@@ -11,13 +13,6 @@ search.addEventListener('blur', () => {
   search.value = '';
 });
 
-//для примера
-const items = [{ name: 'cofe' }, { name: 'switshots' }, { name: 'pants' }, { name: 'Watch' }, { name: 'screwDriver' }];
-
-searchGoods(items);
-// search.addEventListener('input', () => {
-//   setTimeout(() => {
-//     searchValue = search.value;
-//     console.log('🚀 ~ setTimeout ~ searchValue:', searchValue);
-//   }, 500);
-// });
+search.addEventListener('input', () => {
+  console.log('🚀 ~ search.addEventListener ~ searchGoods:', searchGoods(items));
+});
