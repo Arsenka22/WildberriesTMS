@@ -6,11 +6,12 @@ export function searchGoods(goods = []) {
     timer = setTimeout(() => {
       let searchValue = search.value.trim().toLowerCase();
       console.log(goods); // проверить что пришло
-      const result = goods.filter((item) => item.name.toLowerCase().includes(searchValue));
+      // ищу совпадение с началом строки
+      const result = goods.filter((item) => item.name.toLowerCase().startsWith(searchValue));
       console.log('🚀 ~ timer=setTimeout ~ result:', result); // проверить что ушло
       return result;
     }, 500);
   } else {
-    return [];
+    return []; // что бы не поломать рендер
   }
 }

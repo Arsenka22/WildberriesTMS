@@ -1,6 +1,6 @@
 import { searchGoods } from './search.js';
 
-//для примера, в eventListener закоменчено обращение к памяти
+//для проверки загружаю в память
 const items = [
   { id: '1', image: 'scr', oldPrice: '123', name: 'cofe' },
   { id: '1', image: 'scr', oldPrice: '123', name: 'smth' },
@@ -8,6 +8,7 @@ const items = [
   { id: '1', image: 'scr', oldPrice: '123', name: 'штаны' },
   { id: '1', image: 'scr', oldPrice: '123', name: 'screwDriver' },
 ];
+localStorage.setItem('cards', JSON.stringify(items));
 //
 
 export const search = document.getElementById('search');
@@ -24,8 +25,7 @@ search.addEventListener('blur', () => {
 });
 
 search.addEventListener('input', () => {
-  //const cards = JSONparse(localStorage.getItem('cards'));
-  console.log('🚀 ~ search.addEventListener ~ searchGoods:', searchGoods(items));
-  // вместо items в searchGoods передать cards
-  // в моем представлении результат должен уйти на отрисовку
+  const cards = JSON.parse(localStorage.getItem('cards'));
+  console.log('🚀 ~ search.addEventListener ~ searchGoods:', searchGoods(cards));
+  // в моем понимании результат должен уйти на отрисовку
 });
