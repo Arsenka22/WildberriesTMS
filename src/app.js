@@ -26,5 +26,6 @@ search.addEventListener('blur', () => {
 search.addEventListener('input', () => {
   //const cards = JSONparse(localStorage.getItem('cards'));
   console.log('🚀 ~ search.addEventListener ~ searchGoods:', searchGoods(items));
+  // вместо items в searchGoods передать cards
   // в моем представлении результат должен уйти на отрисовку
 });
