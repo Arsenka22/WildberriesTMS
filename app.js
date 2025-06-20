@@ -1,9 +1,10 @@
+const addButtonModalBlock = document.createElement('div');
+addButtonModalBlock.classList.add('flex', 'justify-end', 'my-3')
 const app = document.createElement('div');
-app.classList.add('app', 'flex', 'justify-between');
+app.setAttribute('class', 'app grid grid-cols-[repeat(auto-fit,250px))] justify-between max-lg:grid-cols-[repeat(3,250px)] max-md:grid-cols-[repeat(2,1fr)] max-md:gap-4 max-sm:grid-cols-[repeat(1,1fr)]');
 
 const objCards = [
   {
-    id: 1,
     image: 'image_1.jpg',
     name: 'Сумка',
     newPrice: 100,
@@ -11,7 +12,6 @@ const objCards = [
     discount: 33
   },
   {
-    id: 2,
     image: 'image_2.jpg',
     name: 'Золотой браслет',
     newPrice: 200,
@@ -19,7 +19,6 @@ const objCards = [
     discount: 43
   },
   {
-    id: 3,
     image: 'image_3.jpg',
     name: 'Кожаный ремень',
     newPrice: 50,
@@ -27,7 +26,6 @@ const objCards = [
     discount: 50
   },
   {
-    id: 4,
     image: 'image_4.jpg',
     name: 'Кроссовки',
     newPrice: 100,
@@ -35,7 +33,6 @@ const objCards = [
     discount: 60
   },
   {
-    id: 5,
     image: 'image_5.jpg',
     name: 'Вязаная кофта',
     newPrice: 75,
@@ -61,7 +58,6 @@ function getCard() {
 }
 
 function createCard({
-  id,
   image,
   basket = true,
   newPrice,
@@ -85,15 +81,6 @@ function createCard({
   const cardFooter = document.createElement('div');
   cardFooter.classList.add('card-footer');
 
-  // Добавление ID если указан
-  if (id) {
-    if (typeof id === 'string' || typeof id === 'number') {
-      card.id = `card-${id}`;
-    } else {
-      console.warn('ID должен быть строкой или числом');
-    }
-  }
-
   // Добавление изображения с проверкой URL
   if (image) {
     try {
@@ -101,7 +88,7 @@ function createCard({
       const img = document.createElement('img');
       img.src = `/img/${image}`;
       img.alt = name ? `Изображение ${name}` : 'Изображение товара';
-      img.classList.add('w-[250px]', 'h-[300px]', 'object-cover');
+      img.classList.add('w-full', 'h-[300px]', 'object-cover');
       cardBody.appendChild(img);
     } catch (e) {
       console.warn('Некорректный URL изображения:', image);
@@ -173,5 +160,51 @@ function createCard({
 
   return card;
 }
+
+const modal = document.getElementById("productModal");
+const background = document.getElementById("backgroundModal");
+
+function openModal() {
+  modal.classList.remove('hidden');
+  background.classList.remove('hidden');
+  document.body.classList.add('overflow-hidden')
+}
+
+function closeModal() {
+  modal.classList.add('hidden');
+  background.classList.add('hidden');
+  document.body.classList.remove('overflow-hidden')
+}
+
+const productForm = document.getElementById('updateProductForm');
+productForm.addEventListener('submit', function (e) {
+  e.preventDefault();
+
+  const formData = new FormData(productForm);
+  const product = {
+    image: 'image_6.jpg',
+    name: formData.get('name'),
+    newPrice: parseFloat(formData.get('newPrice')),
+    oldPrice: parseFloat(formData.get('oldPrice')),
+    discount: parseInt(formData.get('discount'))
+  };
+
+  const savedCards = JSON.parse(localStorage.getItem('cards')) || [];
+  savedCards.push(product);
+  localStorage.setItem('cards', JSON.stringify(savedCards));
+  const card = createCard(product);
+  app.appendChild(card);
+  closeModal();
+  productForm.reset();
+})
+
+const addProductButton = document.createElement('button');
+addProductButton.id = 'add-product-button';
+addProductButton.setAttribute('class', 'px-3 py-1.5 bg-white border-2 border-indigo-600 rounded text-indigo-600 hover:bg-indigo-600 hover:text-white text-sm uppercase font-bold cursor-pointer');
+addProductButton.innerHTML = 'Добавить товар';
+addProductButton.addEventListener('click', openModal);
+addProductButton.type = 'button';
+addButtonModalBlock.appendChild(addProductButton)
+document.body.appendChild(addButtonModalBlock)
 
 getCard();
