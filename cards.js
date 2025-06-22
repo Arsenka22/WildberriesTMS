@@ -1,5 +1,4 @@
 document.addEventListener('DOMContentLoaded', () => {
-    // ==================== КОНФИГУРАЦИЯ ====================
     const objCards = [
         { id: 1, image: "image_1.jpg", name: "Сумка", newPrice: 100, oldPrice: 150, discount: 33 },
         { id: 2, image: "image_2.jpg", name: "Золотой браслет", newPrice: 200, oldPrice: 350, discount: 43 },
@@ -8,16 +7,13 @@ document.addEventListener('DOMContentLoaded', () => {
         { id: 5, image: "image_5.jpg", name: "Вязаная кофта", newPrice: 75, oldPrice: 95, discount: 21 },
     ];
 
-    // ==================== ГЛОБАЛЬНЫЕ ПЕРЕМЕННЫЕ ====================
     let cartData = [];
     let allProducts = [];
     let currentSlide = 0;
     let slideInterval;
-    let isSaleActive = true; // Флаг активности акции
-    let productsModule = null; // Для доступа к рендеру продуктов из таймера
-    let cartModule = null; // Для доступа к корзине
-
-    // ==================== СЛАЙДЕР ====================
+    let isSaleActive = true; 
+    let productsModule = null; 
+    let cartModule = null; 
     function initSlider() {
         const slider = document.getElementById('slider');
         const slides = document.querySelectorAll('#slider > div');
@@ -89,7 +85,6 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    // ==================== ПОИСК ====================
     function initSearch() {
         const searchInput = document.getElementById('search');
         if (!searchInput) return;
@@ -104,17 +99,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 );
             }
 
-            // Обновляем отображение товаров
             productsModule.renderProducts(filteredProducts);
         });
     }
 
-    // ==================== КОРЗИНА ====================
     function initCart() {
         const busketButton = document.getElementById('busketButton');
         const cartElement = document.getElementById('cart');
-
-        // Функция для сохранения корзины в localStorage
         function saveCartData() {
             localStorage.setItem('cartData', JSON.stringify(cartData));
         }
