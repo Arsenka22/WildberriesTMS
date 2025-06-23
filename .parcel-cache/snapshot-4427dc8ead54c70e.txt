@@ -22,14 +22,14 @@
 70C:\WildberriesTMS\node_modules\@babel\runtime\helpers\slicedToArray.js133951467021574915 0
 60C:\WildberriesTMS\node_modules\core-js\modules\_string-ws.js133951467022100052 0
 45C:\WildberriesTMS\node_modules\uuid\README.md133951466999598363 0
-50C:\WildberriesTMS\dist\WildberriesTMS.35092a0c.css133951506707547779 0
+50C:\WildberriesTMS\dist\WildberriesTMS.35092a0c.css133951682161486399 0
 42C:\WildberriesTMS\node_modules\json-schema133951466989688711 1
 57C:\WildberriesTMS\node_modules\set-function-length\env.js133951466986011413 0
 54C:\WildberriesTMS\node_modules\brfs\test\files\ag.json133951467000522816 0
 78C:\WildberriesTMS\node_modules\which-builtin-type\node_modules\isarray\LICENSE133951466983884531 0
 67C:\WildberriesTMS\node_modules\purgecss\node_modules\supports-color133951466987914673 1
 55C:\WildberriesTMS\node_modules\core-js\library\fn\typed133951467031899174 1
-22C:\WildberriesTMS\dist133951506707557752 1
+22C:\WildberriesTMS\dist133951682161707257 1
 62C:\WildberriesTMS\node_modules\es-abstract\2018\HasProperty.js133951467028031253 0
 50C:\WildberriesTMS\node_modules\lodash\fp\pullAt.js133951467027548318 0
 73C:\WildberriesTMS\node_modules\deasync\bin\linux-x64-node-15\deasync.node133951467015481011 0
@@ -202,7 +202,7 @@
 79C:\WildberriesTMS\node_modules\@parcel\cache\node_modules\braces\lib\compile.js133951466982570195 0
 42C:\WildberriesTMS\node_modules\ret\LICENSE133951466983482482 0
 52C:\WildberriesTMS\node_modules\es-abstract\es2024.js133951467026321494 0
-37C:\WildberriesTMS\src\style\index.css133951506705517861 0
+37C:\WildberriesTMS\src\style\index.css133951682160500374 0
 87C:\WildberriesTMS\node_modules\@parcel\package-manager\node_modules\braces\lib\parse.js133951466991470599 0
 52C:\WildberriesTMS\node_modules\union-value\README.md133951466985956470 0
 65C:\WildberriesTMS\node_modules\core-js\library\fn\array\splice.js133951467031036049 0
@@ -263,7 +263,7 @@
 61C:\WildberriesTMS\node_modules\es-abstract\2022\IsWordChar.js133951467030406844 0
 67C:\WildberriesTMS\node_modules\tar\dist\commonjs\write-entry.js.map133951467019686139 0
 40C:\WildberriesTMS\node_modules\ripemd160133951466987734288 1
-41C:\WildberriesTMS\src\modules\products.js133951461918605886 0
+41C:\WildberriesTMS\src\modules\products.js133951681087161651 0
 52C:\WildberriesTMS\node_modules\lodash\_equalByTag.js133951467019469422 0
 41C:\WildberriesTMS\node_modules\cache-base133951466985697020 1
 73C:\WildberriesTMS\node_modules\deasync\bin\linux-x64-node-22\deasync.node133951467016489026 0
@@ -8734,7 +8734,7 @@
 60C:\WildberriesTMS\node_modules\@parcel\workers\test\.babelrc133951466995700734 0
 48C:\WildberriesTMS\node_modules\ripemd160\LICENSE133951466986011413 0
 53C:\WildberriesTMS\node_modules\ripemd160\package.json133951466979071477 0
-33C:\WildberriesTMS\dist\index.html133951506706861665 0
+33C:\WildberriesTMS\dist\index.html133951680986190162 0
 100C:\WildberriesTMS\node_modules\@parcel\transformer-postcss\node_modules\semver\classes\comparator.js133951466991440675 0
 50C:\WildberriesTMS\node_modules\is-windows\index.js133951466981211076 0
 50C:\WildberriesTMS\node_modules\ripemd160\README.md133951466988158925 0
@@ -21920,7 +21920,7 @@
 76C:\WildberriesTMS\node_modules\babel-runtime\core-js\object\is-extensible.js133951467017682556 0
 54C:\WildberriesTMS\node_modules\@swc\helpers\_\_type_of133951467023906680 1
 65C:\WildberriesTMS\node_modules\babel-runtime\core-js\object\is.js133951467017823060 0
-43C:\WildberriesTMS\dist\slide 2.e6ee5bc4.jpg133951506707244524 0
+43C:\WildberriesTMS\dist\slide 2.e6ee5bc4.jpg133951682161506342 0
 95C:\WildberriesTMS\node_modules\@parcel\packager-js\node_modules\@parcel\utils\test\input\config133951467017722449 1
 67C:\WildberriesTMS\node_modules\babel-runtime\core-js\object\seal.js133951467018000105 0
 79C:\WildberriesTMS\node_modules\babel-runtime\core-js\object\set-prototype-of.js133951467018060885 0
@@ -27199,7 +27199,7 @@
 78C:\WildberriesTMS\node_modules\@babel\preset-env\data\built-in-modules.json.js133951466989829332 0
 64C:\WildberriesTMS\node_modules\@babel\preset-env\data\plugins.js133951466996650796 0
 74C:\WildberriesTMS\node_modules\@babel\preset-env\data\shipped-proposals.js133951466997528278 0
-43C:\WildberriesTMS\dist\slide 4.9a0f6654.jpg133951506706720058 0
+43C:\WildberriesTMS\dist\slide 4.9a0f6654.jpg133951682161496374 0
 77C:\WildberriesTMS\node_modules\@babel\plugin-transform-unicode-sets-regex\lib133951466986343447 1
 83C:\WildberriesTMS\node_modules\@babel\plugin-transform-unicode-sets-regex\README.md133951466981447560 0
 86C:\WildberriesTMS\node_modules\@babel\plugin-transform-unicode-sets-regex\lib\index.js133951466984321530 0
@@ -27762,11 +27762,11 @@
 44C:\WildberriesTMS\node_modules\.bin\uuid.cmd133951467039701405 0
 41C:\WildberriesTMS\node_modules\.bin\which133951467039701405 0
 26C:\WildberriesTMS\dist\img133951468047211027 1
-43C:\WildberriesTMS\dist\slide 3.361850c3.jpg133951506706488447 0
-43C:\WildberriesTMS\dist\slide 5.68a546ed.jpg133951506707234545 0
+43C:\WildberriesTMS\dist\slide 3.361850c3.jpg133951682161433993 0
+43C:\WildberriesTMS\dist\slide 5.68a546ed.jpg133951682161496374 0
 43C:\WildberriesTMS\dist\slide 5.c25faa20.jpg133951468045383518 0
-42C:\WildberriesTMS\dist\slide1.ea340834.jpg133951506706488447 0
-49C:\WildberriesTMS\dist\WildberriesTMS.8bb16e94.js133951506706907292 0
+42C:\WildberriesTMS\dist\slide1.ea340834.jpg133951682161433993 0
+49C:\WildberriesTMS\dist\WildberriesTMS.8bb16e94.js133951682161702150 0
 32C:\WildberriesTMS\dist\img\icons133951468047121270 1
 38C:\WildberriesTMS\dist\img\image_1.jpg133951056996111126 0
 38C:\WildberriesTMS\dist\img\image_3.jpg133951056996687860 0

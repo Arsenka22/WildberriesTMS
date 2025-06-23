@@ -32,6 +32,7 @@ export function initProducts(cart) {
         </div>
         <div class="name text-gray-800">${name}</div>
       </div>`;
+      
     return card;
   }
 
