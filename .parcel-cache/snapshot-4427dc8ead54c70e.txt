@@ -28,7 +28,7 @@
 78C:\WildberriesTMS\node_modules\which-builtin-type\node_modules\isarray\LICENSE133951466983884531 0
 67C:\WildberriesTMS\node_modules\purgecss\node_modules\supports-color133951466987914673 1
 55C:\WildberriesTMS\node_modules\core-js\library\fn\typed133951467031899174 1
-22C:\WildberriesTMS\dist133951468153552057 1
+22C:\WildberriesTMS\dist133951482359691437 1
 70C:\WildberriesTMS\node_modules\@parcel\core\lib\dumpGraphToGraphViz.js133951467014826004 0
 111C:\WildberriesTMS\node_modules\@parcel\core\node_modules\@parcel\workers\test\integration\workerfarm\logging.js133951467001565611 0
 39C:\WildberriesTMS\node_modules\minimist133951467001027814 1
@@ -269,7 +269,7 @@
 78C:\WildberriesTMS\node_modules\@babel\plugin-transform-private-methods\LICENSE133951466979497396 0
 51C:\WildberriesTMS\node_modules\define-data-property133951466996100246 1
 51C:\WildberriesTMS\node_modules\terser\dist\.gitkeep133951466994745815 0
-39C:\WildberriesTMS\src\modules\search.js133951056997162275 0
+39C:\WildberriesTMS\src\modules\search.js133951482359522350 0
 61C:\WildberriesTMS\node_modules\es-abstract\2023\TrimString.js133951467037642672 0
 78C:\WildberriesTMS\node_modules\static-eval\node_modules\estraverse\gulpfile.js133951466987602886 0
 97C:\WildberriesTMS\node_modules\@parcel\bundler-default\node_modules\@parcel\utils\src\throttle.js133951467015894887 0
@@ -299,7 +299,7 @@
 64C:\WildberriesTMS\node_modules\es-abstract\2023\Number\divide.js133951467026032881 0
 37C:\WildberriesTMS\node_modules\@types133951466958590124 1
 37C:\WildberriesTMS\node_modules\@alloc133951466958514792 1
-38C:\WildberriesTMS\src\modules\timer.js133951056997172259 0
+38C:\WildberriesTMS\src\modules\timer.js133951469459230548 0
 74C:\WildberriesTMS\node_modules\caniuse-lite\data\features\text-emphasis.js133951467027759546 0
 43C:\WildberriesTMS\node_modules\dunder-proto133951466997728454 1
 71C:\WildberriesTMS\node_modules\@babel\runtime\helpers\esm\instanceof.js133951467017853903 0
@@ -27765,7 +27765,7 @@
 43C:\WildberriesTMS\dist\slide 5.68a546ed.jpg133951468152152923 0
 43C:\WildberriesTMS\dist\slide 5.c25faa20.jpg133951468045383518 0
 42C:\WildberriesTMS\dist\slide1.ea340834.jpg133951468152123005 0
-49C:\WildberriesTMS\dist\WildberriesTMS.8bb16e94.js133951468153502179 0
+49C:\WildberriesTMS\dist\WildberriesTMS.8bb16e94.js133951482359681465 0
 32C:\WildberriesTMS\dist\img\icons133951468047121270 1
 38C:\WildberriesTMS\dist\img\image_1.jpg133951056996111126 0
 38C:\WildberriesTMS\dist\img\image_3.jpg133951056996687860 0

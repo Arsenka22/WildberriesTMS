@@ -11,4 +11,13 @@ export function initSearch(productsModule) {
       : state.allProducts;
     productsModule.renderProducts(filtered);
   });
+
+  searchInput.addEventListener('focus', () => {
+  search.classList.remove('text-center');
+});
+
+searchInput.addEventListener('blur', () => {
+  search.classList.add('text-center');
+  search.value = '';
+});
 }
