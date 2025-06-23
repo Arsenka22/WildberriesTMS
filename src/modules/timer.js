@@ -12,7 +12,7 @@ export function initTimer(productsModule, cartModule) {
   const appContainer = document.getElementById("app");
   appContainer?.parentNode?.insertBefore(timer, appContainer);
 
-  let h = 0, m = 0, s = 5;
+  let h = 0, m = 0, s = 59;
   const secInterval = setInterval(() => {
     if (s > 0) {
       s--;
