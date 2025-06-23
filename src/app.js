@@ -1,9 +1,9 @@
-import { initSlider } from "./slider.js";
-import { initSearch } from "./search.js";
-import { initCart } from "./cart.js";
-import { initProducts } from "./products.js";
-import { initModal } from "./modal.js";
-import { initTimer } from "./timer.js";
+import { initSlider } from "./modules/slider.js";
+import { initSearch } from "./modules/search.js";
+import { initCart } from "./modules/cart.js";
+import { initProducts } from "./modules/products.js";
+import { initModal } from "./modules/modal.js";
+import { initTimer } from "./modules/timer.js";
 
 document.addEventListener("DOMContentLoaded", () => {
   initSlider();
