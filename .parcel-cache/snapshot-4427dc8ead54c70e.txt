@@ -1,4 +1,4 @@
-27902
+27903
 44C:\WildberriesTMS\node_modules\get-intrinsic133951466994983591 1
 88C:\WildberriesTMS\node_modules\@parcel\runtime-service-worker\node_modules\@parcel\utils133951467016328471 1
 67C:\WildberriesTMS\node_modules\node-addon-api\doc\prebuild_tools.md133951467014111627 0
@@ -22,23 +22,14 @@
 70C:\WildberriesTMS\node_modules\@babel\runtime\helpers\slicedToArray.js133951467021574915 0
 60C:\WildberriesTMS\node_modules\core-js\modules\_string-ws.js133951467022100052 0
 45C:\WildberriesTMS\node_modules\uuid\README.md133951466999598363 0
+50C:\WildberriesTMS\dist\WildberriesTMS.35092a0c.css133951506707547779 0
 42C:\WildberriesTMS\node_modules\json-schema133951466989688711 1
 57C:\WildberriesTMS\node_modules\set-function-length\env.js133951466986011413 0
 54C:\WildberriesTMS\node_modules\brfs\test\files\ag.json133951467000522816 0
 78C:\WildberriesTMS\node_modules\which-builtin-type\node_modules\isarray\LICENSE133951466983884531 0
 67C:\WildberriesTMS\node_modules\purgecss\node_modules\supports-color133951466987914673 1
 55C:\WildberriesTMS\node_modules\core-js\library\fn\typed133951467031899174 1
-22C:\WildberriesTMS\dist133951482359691437 1
-70C:\WildberriesTMS\node_modules\@parcel\core\lib\dumpGraphToGraphViz.js133951467014826004 0
-111C:\WildberriesTMS\node_modules\@parcel\core\node_modules\@parcel\workers\test\integration\workerfarm\logging.js133951467001565611 0
-39C:\WildberriesTMS\node_modules\minimist133951467001027814 1
-54C:\WildberriesTMS\node_modules\uuid\lib\bytesToUuid.js133951466985191264 0
-62C:\WildberriesTMS\node_modules\htmlparser2\lib\ProxyHandler.js133951466993017784 0
-47C:\WildberriesTMS\node_modules\collection-visit133951466985677070 1
-80C:\WildberriesTMS\node_modules\@parcel\types\node_modules\@parcel\logger\LICENSE133951466979678491 0
-100C:\WildberriesTMS\node_modules\regenerate-unicode-properties\General_Category\Paragraph_Separator.js133951467023160656 0
-60C:\WildberriesTMS\node_modules\msgpackr-extract\package.json133951466991283491 0
-26C:\WildberriesTMS\cards.js133951407790931432 0
+22C:\WildberriesTMS\dist133951506707557752 1
 62C:\WildberriesTMS\node_modules\es-abstract\2018\HasProperty.js133951467028031253 0
 50C:\WildberriesTMS\node_modules\lodash\fp\pullAt.js133951467027548318 0
 73C:\WildberriesTMS\node_modules\deasync\bin\linux-x64-node-15\deasync.node133951467015481011 0
@@ -142,25 +133,7 @@
 44C:\WildberriesTMS\node_modules\jsbn\index.js133951466991552026 0
 72C:\WildberriesTMS\node_modules\jsdom\lib\jsdom\living\helpers\strings.js133951467023241290 0
 92C:\WildberriesTMS\node_modules\@parcel\transformer-js\node_modules\chalk\source\templates.js133951466984468284 0
-21C:\WildberriesTMS\src133951466507810373 1
-50C:\WildberriesTMS\node_modules\safe-buffer\LICENSE133951466979071477 0
-85C:\WildberriesTMS\node_modules\@parcel\core\node_modules\semver\functions\rcompare.js133951467010745660 0
-38C:\WildberriesTMS\node_modules\isarray133951466992544776 1
-38C:\WildberriesTMS\node_modules\@parcel133951467045073196 1
-62C:\WildberriesTMS\node_modules\es-abstract\2016\GetIterator.js133951467026920363 0
-55C:\WildberriesTMS\node_modules\side-channel-map\LICENSE133951466985991457 0
-120C:\WildberriesTMS\node_modules\postcss-minify-selectors\node_modules\postcss-selector-parser\dist\selectors\attribute.js133951466982731607 0
-57C:\WildberriesTMS\node_modules\static-module\test\prop.js133951467014253017 0
-37C:\WildberriesTMS\node_modules\@iarna133951466958530262 1
-77C:\WildberriesTMS\node_modules\@babel\generator\lib\generators\classes.js.map133951466995054365 0
-81C:\WildberriesTMS\node_modules\@parcel\core\node_modules\json5\dist\index.min.mjs133951466998536245 0
-89C:\WildberriesTMS\node_modules\@parcel\packager-js\node_modules\@parcel\utils\src\blob.js133951466992916704 0
-77C:\WildberriesTMS\node_modules\htmlnano\node_modules\htmlparser2\package.json133951466995384640 0
-49C:\WildberriesTMS\node_modules\strip-ansi\license133951466983447206 0
-40C:\WildberriesTMS\node_modules\rgb-regex133951466992288004 1
-74C:\WildberriesTMS\node_modules\@parcel\transformer-js\node_modules\@parcel133951466959535273 1
-31C:\WildberriesTMS\src\index.css133941342399595199 0
-53C:\WildberriesTMS\node_modules\sshpk\bin\sshpk-verify133951466989608922 0
+21C:\WildberriesTMS\src133951503765151457 1
 35C:\WildberriesTMS\node_modules\uuid133951466999425928 1
 100C:\WildberriesTMS\node_modules\@parcel\reporter-cli\node_modules\@parcel\utils\src\getCertificate.js133951467001001137 0
 101C:\WildberriesTMS\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\universal.js133951467013158717 0
@@ -177,13 +150,59 @@
 69C:\WildberriesTMS\node_modules\es-abstract\2015\TestIntegrityLevel.js133951467035939149 0
 43C:\WildberriesTMS\node_modules\ansi-to-html133951466998208458 1
 45C:\WildberriesTMS\node_modules\lodash\drop.js133951467024582746 0
-32C:\WildberriesTMS\src\index.html133951467961470316 0
+32C:\WildberriesTMS\src\index.html133951506641141970 0
 50C:\WildberriesTMS\node_modules\lodash\_castPath.js133951467018030955 0
 29C:\WildberriesTMS\src\modules133951440741819548 1
 53C:\WildberriesTMS\node_modules\object-inspect\LICENSE133951466995954503 0
 59C:\WildberriesTMS\node_modules\@parcel\packager-raw\LICENSE133951466979457505 0
 92C:\WildberriesTMS\node_modules\jsdom\lib\jsdom\living\nodes\NonDocumentTypeChildNode-impl.js133951467024794369 0
 36C:\WildberriesTMS\node_modules\clone133951466990698034 1
+52C:\WildberriesTMS\node_modules\lodash\fp\findLast.js133951467025097683 0
+57C:\WildberriesTMS\node_modules\glob-to-regexp\.travis.yml133951466989698685 0
+57C:\WildberriesTMS\node_modules\which-collection\README.md133951466994917828 0
+56C:\WildberriesTMS\node_modules\@parcel\markdown-ansi\lib133951466981432171 1
+59C:\WildberriesTMS\node_modules\lodash\_baseIsArrayBuffer.js133951467014121601 0
+70C:\WildberriesTMS\node_modules\core-js\modules\_species-constructor.js133951467021776271 0
+88C:\WildberriesTMS\node_modules\csso\node_modules\css-tree\lib\syntax\atrule\font-face.js133951467013029057 0
+75C:\WildberriesTMS\node_modules\@parcel\node-resolver-core\node_modules\.bin133951467039631562 1
+44C:\WildberriesTMS\node_modules\color-convert133951466991843090 1
+46C:\WildberriesTMS\node_modules\qs\lib\parse.js133951466992288004 0
+27C:\WildberriesTMS\src\style133951503765151457 1
+52C:\WildberriesTMS\node_modules\@parcel\packager-wasm133951466992116666 1
+53C:\WildberriesTMS\node_modules\math-intrinsics\pow.js133951466998359495 0
+62C:\WildberriesTMS\node_modules\to-fast-properties\package.json133951466979021613 0
+93C:\WildberriesTMS\node_modules\@parcel\cache\node_modules\@parcel\workers\src\web\WebChild.js133951467012184374 0
+52C:\WildberriesTMS\node_modules\lodash\fp\toNumber.js133951467028603847 0
+44C:\WildberriesTMS\node_modules\acorn-globals133951466985737910 1
+65C:\WildberriesTMS\node_modules\regexp.prototype.flags\polyfill.js133951466996060358 0
+69C:\WildberriesTMS\node_modules\jsdom\node_modules\ws\lib\extension.js133951466991419839 0
+90C:\WildberriesTMS\node_modules\tar\node_modules\mkdirp\dist\cjs\src\mkdirp-native.d.ts.map133951467007985541 0
+75C:\WildberriesTMS\node_modules\deasync\bin\win32-x64-node-0.12\deasync.node133951467019177320 0
+61C:\WildberriesTMS\node_modules\deasync\bin\darwin-x64-node-11133951467001158251 1
+69C:\WildberriesTMS\node_modules\@parcel\core\test\ParcelConfig.test.js133951467017833952 0
+77C:\WildberriesTMS\node_modules\jsdom\lib\jsdom\living\generated\CloseEvent.js133951467015490997 0
+74C:\WildberriesTMS\node_modules\parcel-bundler\src\packagers\RawPackager.js133951467019716059 0
+71C:\WildberriesTMS\node_modules\es-abstract\helpers\getIteratorMethod.js133951467027045639 0
+78C:\WildberriesTMS\node_modules\safe-array-concat\node_modules\isarray\index.js133951466981517400 0
+66C:\WildberriesTMS\node_modules\@parcel\watcher\test\changeEvent.js133951466997437765 0
+53C:\WildberriesTMS\node_modules\minipass\dist\commonjs133951466998470005 1
+43C:\WildberriesTMS\public\img\icons\cart.svg133951056996039222 0
+70C:\WildberriesTMS\node_modules\fast-glob\package\out\managers\tasks.js133951467013444312 0
+58C:\WildberriesTMS\node_modules\es-abstract\5\DaysInYear.js133951467025399615 0
+38C:\WildberriesTMS\node_modules\kind-of133951466985576247 1
+80C:\WildberriesTMS\node_modules\htmlnano\node_modules\htmlparser2\lib\Parser.d.ts133951467000691056 0
+80C:\WildberriesTMS\node_modules\ordered-binary\.nyc_output\processinfo\index.json133951466995640896 0
+69C:\WildberriesTMS\node_modules\@swc\helpers\src\_set_prototype_of.mjs133951467024896503 0
+68C:\WildberriesTMS\node_modules\parcel-bundler\lib\assets\SSSAsset.js133951467001676379 0
+40C:\WildberriesTMS\public\img\slide 4.jpg133951056997102445 0
+98C:\WildberriesTMS\node_modules\@parcel\node-resolver-core\node_modules\node-addon-api\package.json133951467000167625 0
+80C:\WildberriesTMS\node_modules\jsdom\lib\jsdom\living\nodes\DocumentType-impl.js133951467023678970 0
+60C:\WildberriesTMS\node_modules\babel-plugin-polyfill-corejs3133951466999327674 1
+84C:\WildberriesTMS\node_modules\jsdom\lib\jsdom\living\nodes\HTMLInputElement-impl.js133951467024235216 0
+79C:\WildberriesTMS\node_modules\@parcel\cache\node_modules\braces\lib\compile.js133951466982570195 0
+42C:\WildberriesTMS\node_modules\ret\LICENSE133951466983482482 0
+52C:\WildberriesTMS\node_modules\es-abstract\es2024.js133951467026321494 0
+37C:\WildberriesTMS\src\style\index.css133951506705517861 0
 87C:\WildberriesTMS\node_modules\@parcel\package-manager\node_modules\braces\lib\parse.js133951466991470599 0
 52C:\WildberriesTMS\node_modules\union-value\README.md133951466985956470 0
 65C:\WildberriesTMS\node_modules\core-js\library\fn\array\splice.js133951467031036049 0
@@ -269,7 +288,7 @@
 78C:\WildberriesTMS\node_modules\@babel\plugin-transform-private-methods\LICENSE133951466979497396 0
 51C:\WildberriesTMS\node_modules\define-data-property133951466996100246 1
 51C:\WildberriesTMS\node_modules\terser\dist\.gitkeep133951466994745815 0
-39C:\WildberriesTMS\src\modules\search.js133951482359522350 0
+39C:\WildberriesTMS\src\modules\search.js133951504682281701 0
 61C:\WildberriesTMS\node_modules\es-abstract\2023\TrimString.js133951467037642672 0
 78C:\WildberriesTMS\node_modules\static-eval\node_modules\estraverse\gulpfile.js133951466987602886 0
 97C:\WildberriesTMS\node_modules\@parcel\bundler-default\node_modules\@parcel\utils\src\throttle.js133951467015894887 0
@@ -299,7 +318,7 @@
 64C:\WildberriesTMS\node_modules\es-abstract\2023\Number\divide.js133951467026032881 0
 37C:\WildberriesTMS\node_modules\@types133951466958590124 1
 37C:\WildberriesTMS\node_modules\@alloc133951466958514792 1
-38C:\WildberriesTMS\src\modules\timer.js133951469459230548 0
+38C:\WildberriesTMS\src\modules\timer.js133951485099823930 0
 74C:\WildberriesTMS\node_modules\caniuse-lite\data\features\text-emphasis.js133951467027759546 0
 43C:\WildberriesTMS\node_modules\dunder-proto133951466997728454 1
 71C:\WildberriesTMS\node_modules\@babel\runtime\helpers\esm\instanceof.js133951467017853903 0
@@ -426,33 +445,6 @@
 40C:\WildberriesTMS\public\img\image_4.jpg133951056996797562 0
 91C:\WildberriesTMS\node_modules\htmlnano\node_modules\terser\lib\utils\first_in_statement.js133951467010759408 0
 72C:\WildberriesTMS\node_modules\es-abstract\2024\ArrayBufferByteLength.js133951467016785908 0
-52C:\WildberriesTMS\node_modules\@parcel\packager-wasm133951466992116666 1
-53C:\WildberriesTMS\node_modules\math-intrinsics\pow.js133951466998359495 0
-62C:\WildberriesTMS\node_modules\to-fast-properties\package.json133951466979021613 0
-93C:\WildberriesTMS\node_modules\@parcel\cache\node_modules\@parcel\workers\src\web\WebChild.js133951467012184374 0
-52C:\WildberriesTMS\node_modules\lodash\fp\toNumber.js133951467028603847 0
-44C:\WildberriesTMS\node_modules\acorn-globals133951466985737910 1
-65C:\WildberriesTMS\node_modules\regexp.prototype.flags\polyfill.js133951466996060358 0
-69C:\WildberriesTMS\node_modules\jsdom\node_modules\ws\lib\extension.js133951466991419839 0
-90C:\WildberriesTMS\node_modules\tar\node_modules\mkdirp\dist\cjs\src\mkdirp-native.d.ts.map133951467007985541 0
-75C:\WildberriesTMS\node_modules\deasync\bin\win32-x64-node-0.12\deasync.node133951467019177320 0
-61C:\WildberriesTMS\node_modules\deasync\bin\darwin-x64-node-11133951467001158251 1
-69C:\WildberriesTMS\node_modules\@parcel\core\test\ParcelConfig.test.js133951467017833952 0
-77C:\WildberriesTMS\node_modules\jsdom\lib\jsdom\living\generated\CloseEvent.js133951467015490997 0
-74C:\WildberriesTMS\node_modules\parcel-bundler\src\packagers\RawPackager.js133951467019716059 0
-71C:\WildberriesTMS\node_modules\es-abstract\helpers\getIteratorMethod.js133951467027045639 0
-78C:\WildberriesTMS\node_modules\safe-array-concat\node_modules\isarray\index.js133951466981517400 0
-66C:\WildberriesTMS\node_modules\@parcel\watcher\test\changeEvent.js133951466997437765 0
-53C:\WildberriesTMS\node_modules\minipass\dist\commonjs133951466998470005 1
-43C:\WildberriesTMS\public\img\icons\cart.svg133951056996039222 0
-70C:\WildberriesTMS\node_modules\fast-glob\package\out\managers\tasks.js133951467013444312 0
-58C:\WildberriesTMS\node_modules\es-abstract\5\DaysInYear.js133951467025399615 0
-38C:\WildberriesTMS\node_modules\kind-of133951466985576247 1
-80C:\WildberriesTMS\node_modules\htmlnano\node_modules\htmlparser2\lib\Parser.d.ts133951467000691056 0
-80C:\WildberriesTMS\node_modules\ordered-binary\.nyc_output\processinfo\index.json133951466995640896 0
-69C:\WildberriesTMS\node_modules\@swc\helpers\src\_set_prototype_of.mjs133951467024896503 0
-68C:\WildberriesTMS\node_modules\parcel-bundler\lib\assets\SSSAsset.js133951467001676379 0
-40C:\WildberriesTMS\public\img\slide 4.jpg133951056997102445 0
 85C:\WildberriesTMS\node_modules\@parcel\types\node_modules\@parcel\logger\package.json133951466990788678 0
 35C:\WildberriesTMS\node_modules\.bin133951467039631562 1
 63C:\WildberriesTMS\node_modules\request-promise-native\lib\rp.js133951466984191579 0
@@ -545,6 +537,15 @@
 91C:\WildberriesTMS\node_modules\@parcel\transformer-postcss\node_modules\semver\package.json133951467012801179 0
 37C:\WildberriesTMS\node_modules\@babel133951466959196732 1
 90C:\WildberriesTMS\node_modules\regenerate-unicode-properties\Script_Extensions\Vithkuqi.js133951467024511861 0
+50C:\WildberriesTMS\node_modules\safe-buffer\LICENSE133951466979071477 0
+85C:\WildberriesTMS\node_modules\@parcel\core\node_modules\semver\functions\rcompare.js133951467010745660 0
+38C:\WildberriesTMS\node_modules\isarray133951466992544776 1
+38C:\WildberriesTMS\node_modules\@parcel133951467045073196 1
+62C:\WildberriesTMS\node_modules\es-abstract\2016\GetIterator.js133951467026920363 0
+55C:\WildberriesTMS\node_modules\side-channel-map\LICENSE133951466985991457 0
+120C:\WildberriesTMS\node_modules\postcss-minify-selectors\node_modules\postcss-selector-parser\dist\selectors\attribute.js133951466982731607 0
+57C:\WildberriesTMS\node_modules\static-module\test\prop.js133951467014253017 0
+37C:\WildberriesTMS\node_modules\@iarna133951466958530262 1
 38C:\WildberriesTMS\node_modules\@isaacs133951466958530262 1
 88C:\WildberriesTMS\node_modules\@parcel\core\node_modules\@parcel\watcher\src\Debounce.cc133951466991953545 0
 37C:\WildberriesTMS\node_modules\@lezer133951466959196732 1
@@ -799,10 +800,6 @@
 80C:\WildberriesTMS\node_modules\@babel\plugin-transform-export-namespace-from\lib133951466986363390 1
 64C:\WildberriesTMS\node_modules\tar\dist\esm\symlink-error.js.map133951467019076844 0
 60C:\WildberriesTMS\node_modules\babel-plugin-polyfill-corejs2133951466995700734 1
-98C:\WildberriesTMS\node_modules\@parcel\node-resolver-core\node_modules\node-addon-api\package.json133951467000167625 0
-80C:\WildberriesTMS\node_modules\jsdom\lib\jsdom\living\nodes\DocumentType-impl.js133951467023678970 0
-60C:\WildberriesTMS\node_modules\babel-plugin-polyfill-corejs3133951466999327674 1
-84C:\WildberriesTMS\node_modules\jsdom\lib\jsdom\living\nodes\HTMLInputElement-impl.js133951467024235216 0
 27C:\WildberriesTMS\.cache\54133951424495664136 1
 53C:\WildberriesTMS\node_modules\@parcel\diagnostic\lib133951466992614591 1
 48C:\WildberriesTMS\node_modules\lodash\fp\each.js133951467024693489 0
@@ -1280,19 +1277,16 @@
 60C:\WildberriesTMS\node_modules\core-js\modules\_iter-step.js133951467017773194 0
 82C:\WildberriesTMS\node_modules\@parcel\types\node_modules\supports-color\readme.md133951466989422918 0
 34C:\WildberriesTMS\node_modules\coa133951466991833114 1
+70C:\WildberriesTMS\node_modules\@parcel\core\lib\dumpGraphToGraphViz.js133951467014826004 0
+111C:\WildberriesTMS\node_modules\@parcel\core\node_modules\@parcel\workers\test\integration\workerfarm\logging.js133951467001565611 0
+39C:\WildberriesTMS\node_modules\minimist133951467001027814 1
+54C:\WildberriesTMS\node_modules\uuid\lib\bytesToUuid.js133951466985191264 0
+62C:\WildberriesTMS\node_modules\htmlparser2\lib\ProxyHandler.js133951466993017784 0
+47C:\WildberriesTMS\node_modules\collection-visit133951466985677070 1
 54C:\WildberriesTMS\node_modules\resolve\test\subdirs.js133951467016449131 0
 63C:\WildberriesTMS\node_modules\public-encrypt\test\nodeTests.js133951466998985810 0
 57C:\WildberriesTMS\node_modules\command-exists\.travis.yml133951466995984430 0
 36C:\WildberriesTMS\node_modules\color133951466985677070 1
-52C:\WildberriesTMS\node_modules\lodash\fp\findLast.js133951467025097683 0
-57C:\WildberriesTMS\node_modules\glob-to-regexp\.travis.yml133951466989698685 0
-57C:\WildberriesTMS\node_modules\which-collection\README.md133951466994917828 0
-56C:\WildberriesTMS\node_modules\@parcel\markdown-ansi\lib133951466981432171 1
-59C:\WildberriesTMS\node_modules\lodash\_baseIsArrayBuffer.js133951467014121601 0
-70C:\WildberriesTMS\node_modules\core-js\modules\_species-constructor.js133951467021776271 0
-88C:\WildberriesTMS\node_modules\csso\node_modules\css-tree\lib\syntax\atrule\font-face.js133951467013029057 0
-75C:\WildberriesTMS\node_modules\@parcel\node-resolver-core\node_modules\.bin133951467039631562 1
-44C:\WildberriesTMS\node_modules\color-convert133951466991843090 1
 66C:\WildberriesTMS\node_modules\@babel\plugin-transform-modules-amd133951466989829332 1
 68C:\WildberriesTMS\node_modules\uri-js\dist\esnext\schemes\urn.js.map133951467007749135 0
 69C:\WildberriesTMS\node_modules\fast-glob\package\out\utils\pattern.js133951467015702287 0
@@ -3212,6 +3206,12 @@
 27C:\WildberriesTMS\.cache\f9133941342557329839 1
 34C:\WildberriesTMS\node_modules\ret133951466985201266 1
 74C:\WildberriesTMS\node_modules\core-js\library\modules\_object-gopn-ext.js133951467019066879 0
+77C:\WildberriesTMS\node_modules\@babel\generator\lib\generators\classes.js.map133951466995054365 0
+81C:\WildberriesTMS\node_modules\@parcel\core\node_modules\json5\dist\index.min.mjs133951466998536245 0
+89C:\WildberriesTMS\node_modules\@parcel\packager-js\node_modules\@parcel\utils\src\blob.js133951466992916704 0
+77C:\WildberriesTMS\node_modules\htmlnano\node_modules\htmlparser2\package.json133951466995384640 0
+49C:\WildberriesTMS\node_modules\strip-ansi\license133951466983447206 0
+40C:\WildberriesTMS\node_modules\rgb-regex133951466992288004 1
 75C:\WildberriesTMS\node_modules\@parcel\transformer-babel\node_modules\chalk133951466992207248 1
 55C:\WildberriesTMS\node_modules\relateurl\lib\options.js133951466991263542 0
 73C:\WildberriesTMS\node_modules\core-js\library\fn\object\is-extensible.js133951467029594056 0
@@ -7729,6 +7729,7 @@
 62C:\WildberriesTMS\node_modules\fast-glob\out\types\patterns.js133951467007458239 0
 51C:\WildberriesTMS\node_modules\sshpk\bin\sshpk-sign133951466986685746 0
 55C:\WildberriesTMS\node_modules\shebang-command\index.js133951466981060562 0
+53C:\WildberriesTMS\node_modules\sshpk\bin\sshpk-verify133951466989608922 0
 91C:\WildberriesTMS\node_modules\@babel\helper-create-class-features-plugin\node_modules\.bin133951467039465863 1
 90C:\WildberriesTMS\node_modules\@parcel\transformer-babel\node_modules\semver\ranges\gtr.js133951466998606053 0
 46C:\WildberriesTMS\node_modules\srcset\index.js133951466981050593 0
@@ -8733,7 +8734,7 @@
 60C:\WildberriesTMS\node_modules\@parcel\workers\test\.babelrc133951466995700734 0
 48C:\WildberriesTMS\node_modules\ripemd160\LICENSE133951466986011413 0
 53C:\WildberriesTMS\node_modules\ripemd160\package.json133951466979071477 0
-33C:\WildberriesTMS\dist\index.html133951468153552057 0
+33C:\WildberriesTMS\dist\index.html133951506706861665 0
 100C:\WildberriesTMS\node_modules\@parcel\transformer-postcss\node_modules\semver\classes\comparator.js133951466991440675 0
 50C:\WildberriesTMS\node_modules\is-windows\index.js133951466981211076 0
 50C:\WildberriesTMS\node_modules\ripemd160\README.md133951466988158925 0
@@ -8771,9 +8772,6 @@
 53C:\WildberriesTMS\node_modules\rgb-regex\package.json133951466979081459 0
 103C:\WildberriesTMS\node_modules\@parcel\node-resolver-core\node_modules\@parcel\utils\src\relativeUrl.js133951467014876544 0
 53C:\WildberriesTMS\node_modules\rgb-regex\test\test.js133951466992967910 0
-79C:\WildberriesTMS\node_modules\@parcel\cache\node_modules\braces\lib\compile.js133951466982570195 0
-42C:\WildberriesTMS\node_modules\ret\LICENSE133951466983482482 0
-52C:\WildberriesTMS\node_modules\es-abstract\es2024.js133951467026321494 0
 69C:\WildberriesTMS\node_modules\is-generator-function\test\uglified.js133951466992997839 0
 88C:\WildberriesTMS\node_modules\@parcel\transformer-postcss\node_modules\semver\functions133951467012579892 1
 47C:\WildberriesTMS\node_modules\ret\package.json133951466979081459 0
@@ -9703,6 +9701,8 @@
 67C:\WildberriesTMS\node_modules\elliptic\lib\elliptic\eddsa\index.js133951466995540048 0
 93C:\WildberriesTMS\node_modules\regenerate-unicode-properties\General_Category\Other_Symbol.js133951467023030998 0
 51C:\WildberriesTMS\node_modules\extglob\package.json133951466979290899 0
+80C:\WildberriesTMS\node_modules\@parcel\types\node_modules\@parcel\logger\LICENSE133951466979678491 0
+100C:\WildberriesTMS\node_modules\regenerate-unicode-properties\General_Category\Paragraph_Separator.js133951467023160656 0
 52C:\WildberriesTMS\node_modules\lodash\fp\overArgs.js133951467027176762 0
 90C:\WildberriesTMS\node_modules\regenerate-unicode-properties\General_Category\Separator.js133951467023588388 0
 90C:\WildberriesTMS\node_modules\regenerate-unicode-properties\General_Category\Surrogate.js133951467023916648 0
@@ -9928,7 +9928,6 @@
 76C:\WildberriesTMS\node_modules\@babel\plugin-transform-numeric-separator\lib133951466986353419 1
 106C:\WildberriesTMS\node_modules\@parcel\packager-js\node_modules\@parcel\utils\test\input\config\config.cjs133951466985885262 0
 48C:\WildberriesTMS\node_modules\qs\component.json133951466998546220 0
-46C:\WildberriesTMS\node_modules\qs\lib\parse.js133951466992288004 0
 44C:\WildberriesTMS\node_modules\qs\dist\qs.js133951466995630916 0
 83C:\WildberriesTMS\node_modules\@jridgewell\trace-mapping\dist\trace-mapping.mjs.map133951466989829332 0
 98C:\WildberriesTMS\node_modules\@parcel\runtime-js\node_modules\@parcel\utils\src\getCertificate.js133951467000991175 0
@@ -12780,6 +12779,7 @@
 49C:\WildberriesTMS\node_modules\lodash\isFinite.js133951467026171063 0
 59C:\WildberriesTMS\node_modules\msgpackr-extract\binding.gyp133951466984211517 0
 55C:\WildberriesTMS\node_modules\msgpackr-extract\LICENSE133951466979171212 0
+60C:\WildberriesTMS\node_modules\msgpackr-extract\package.json133951466991283491 0
 57C:\WildberriesTMS\node_modules\msgpackr-extract\README.md133951466992317928 0
 67C:\WildberriesTMS\node_modules\htmlnano\node_modules\posthtml\types133951466993130084 1
 70C:\WildberriesTMS\node_modules\es-abstract\2020\OrdinaryHasInstance.js133951467032804707 0
@@ -21920,7 +21920,7 @@
 76C:\WildberriesTMS\node_modules\babel-runtime\core-js\object\is-extensible.js133951467017682556 0
 54C:\WildberriesTMS\node_modules\@swc\helpers\_\_type_of133951467023906680 1
 65C:\WildberriesTMS\node_modules\babel-runtime\core-js\object\is.js133951467017823060 0
-43C:\WildberriesTMS\dist\slide 2.e6ee5bc4.jpg133951468152162900 0
+43C:\WildberriesTMS\dist\slide 2.e6ee5bc4.jpg133951506707244524 0
 95C:\WildberriesTMS\node_modules\@parcel\packager-js\node_modules\@parcel\utils\test\input\config133951467017722449 1
 67C:\WildberriesTMS\node_modules\babel-runtime\core-js\object\seal.js133951467018000105 0
 79C:\WildberriesTMS\node_modules\babel-runtime\core-js\object\set-prototype-of.js133951467018060885 0
@@ -23427,6 +23427,7 @@
 57C:\WildberriesTMS\node_modules\@parcel\transformer-js\src133951466993260920 1
 74C:\WildberriesTMS\node_modules\@parcel\transformer-js\src\JSTransformer.js133951466991601898 0
 71C:\WildberriesTMS\node_modules\@parcel\transformer-js\node_modules\.bin133951467039485834 1
+74C:\WildberriesTMS\node_modules\@parcel\transformer-js\node_modules\@parcel133951466959535273 1
 78C:\WildberriesTMS\node_modules\@parcel\transformer-js\node_modules\ansi-styles133951466987981133 1
 27C:\WildberriesTMS\.cache\1d133941342556930897 1
 72C:\WildberriesTMS\node_modules\@parcel\transformer-js\node_modules\chalk133951466992197268 1
@@ -27198,7 +27199,7 @@
 78C:\WildberriesTMS\node_modules\@babel\preset-env\data\built-in-modules.json.js133951466989829332 0
 64C:\WildberriesTMS\node_modules\@babel\preset-env\data\plugins.js133951466996650796 0
 74C:\WildberriesTMS\node_modules\@babel\preset-env\data\shipped-proposals.js133951466997528278 0
-43C:\WildberriesTMS\dist\slide 4.9a0f6654.jpg133951468153367164 0
+43C:\WildberriesTMS\dist\slide 4.9a0f6654.jpg133951506706720058 0
 77C:\WildberriesTMS\node_modules\@babel\plugin-transform-unicode-sets-regex\lib133951466986343447 1
 83C:\WildberriesTMS\node_modules\@babel\plugin-transform-unicode-sets-regex\README.md133951466981447560 0
 86C:\WildberriesTMS\node_modules\@babel\plugin-transform-unicode-sets-regex\lib\index.js133951466984321530 0
@@ -27761,11 +27762,11 @@
 44C:\WildberriesTMS\node_modules\.bin\uuid.cmd133951467039701405 0
 41C:\WildberriesTMS\node_modules\.bin\which133951467039701405 0
 26C:\WildberriesTMS\dist\img133951468047211027 1
-43C:\WildberriesTMS\dist\slide 3.361850c3.jpg133951468152123005 0
-43C:\WildberriesTMS\dist\slide 5.68a546ed.jpg133951468152152923 0
+43C:\WildberriesTMS\dist\slide 3.361850c3.jpg133951506706488447 0
+43C:\WildberriesTMS\dist\slide 5.68a546ed.jpg133951506707234545 0
 43C:\WildberriesTMS\dist\slide 5.c25faa20.jpg133951468045383518 0
-42C:\WildberriesTMS\dist\slide1.ea340834.jpg133951468152123005 0
-49C:\WildberriesTMS\dist\WildberriesTMS.8bb16e94.js133951482359681465 0
+42C:\WildberriesTMS\dist\slide1.ea340834.jpg133951506706488447 0
+49C:\WildberriesTMS\dist\WildberriesTMS.8bb16e94.js133951506706907292 0
 32C:\WildberriesTMS\dist\img\icons133951468047121270 1
 38C:\WildberriesTMS\dist\img\image_1.jpg133951056996111126 0
 38C:\WildberriesTMS\dist\img\image_3.jpg133951056996687860 0
