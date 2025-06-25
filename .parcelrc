@@ -1,6 +1,4 @@
 {
   "extends": "@parcel/config-default",
-  "staticFiles": {
-    "staticPath": "public"
-  }
+  "reporters": ["...", "parcel-reporter-static-files-copy"]
 }
